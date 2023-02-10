@@ -8,8 +8,8 @@ class HospitalApp {
         hospital.add(doc);
         hospital.add(nurs);
         hospital.add(nurs2);
-        hospital.getInfo();
+
         System.out.println(hospital.getInfo());
-        System.out.println(hospital);
+        
     }
 }
